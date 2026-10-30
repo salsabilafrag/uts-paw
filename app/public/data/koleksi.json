@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Sistem Informasi Akademik Mahasiswa (SIAKAD)",
+    "kategori": "Web",
+    "teknologi": "Laravel, PHP, MySQL",
+    "tahun": 2017,
+    "tautan": "https://siakad.itera.ac.id"
+  },
+  {
+    "id": "2",
+    "judul": "Apple Store - Website E-Commerce Produk Apple",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS, JavaScript",
+    "tahun": 1997,
+    "tautan": "https://www.apple.com"
+  },
+  {
+    "id": "3",
+    "judul": "Sistem Kantin Pesan dan Bayar (MakanYuk)",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS, JavaScript, PHP, MySQL",
+    "tahun": 2026,
+    "tautan": "https://github.com/salsabilafrag/makanyuk"
+  },
+  {
+    "id": "4",
+    "judul": "Aplikasi Pengelolaan Keuangan Mahasiswa",
+    "kategori": "Mobile",
+    "teknologi": "Flutter, Dart, SQLite",
+    "tahun": 2026,
+    "tautan": "https://github.com/salsabilafrag/keuangan-mahasiswa"
+  },
+  {
+    "id": "5",
+    "judul": "UI/UX Design Aplikasi Mobile",
+    "kategori": "Desain",
+    "teknologi": "Figma, Adobe Illustrator, Canva",
+    "tahun": 2026,
+    "tautan": "https://www.figma.com"
+  },
+  {
+    "id": "6",
+    "judul": "Dashboard Analisis Data Penjualan",
+    "kategori": "Data",
+    "teknologi": "Python, Pandas, Matplotlib, Streamlit",
+    "tahun": 2025,
+    "tautan": "https://github.com/salsabilafrag/dashboard-penjualan"
+  },
+  {
+    "id": "7",
+    "judul": "Aplikasi Edit Video",
+    "kategori": "Mobile",
+    "teknologi": "HTML, JavaScript, WebGL",
+    "tahun": 2020,
+    "tautan": "https://www.capcut.com"
+  },
+  {
+    "id": "8",
+    "judul": "Sistem Informasi Event Kampus",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS, JavaScript, PHP, MySQL",
+    "tahun": 2026,
+    "tautan": "https://github.com/salsabilafrag/event-kampus"
+  },
+  {
+    "id": "9",
+    "judul": "Aplikasi Streaming Film",
+    "kategori": "Mobile",
+    "teknologi": "HTML5, JavaScript, TypeScript",
+    "tahun": 2018,
+    "tautan": "https://www.netflix.com"
+  },
+  {
+    "id": "10",
+    "judul": "Sistem Pengenalan Wajah (Face Recognition System)",
+    "kategori": "Data",
+    "teknologi": "Python, OpenCV, Numpy, Face Recognition",
+    "tahun": 2026,
+    "tautan": "https://github.com/salsabilafrag/face-recognition-system"
   }
 ]
