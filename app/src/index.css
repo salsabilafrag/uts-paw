@@ -3,8 +3,14 @@
   line-height: 1.5;
   color: #1f2328;
   background: #f6f7f9;
+  background-color: #748cab;
 }
-
+.kepala{
+  background-color: #1d2d44;
+}
+.kaki {
+  background-color: #3e5c76;
+}
 body {
   margin: 0;
 }

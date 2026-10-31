@@ -1,0 +1,33 @@
+.tentang {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 1 rem;
+}
+
+.kotak-tentang{
+    width: 100%;
+    max-width: 600px;
+    padding: 1.5rem 2rem;
+    background: #1d3557;
+    border: 2px;
+    border-radius: 12px;
+    color: #457b9d;
+}
+
+.kotak-tentang h1 {
+    margin: 0 0 1rem;
+    color: #9ceaef;
+}
+
+.kotak-tentang dt {
+    color: #90caf9;
+}
+
+.kotak-tentang p {
+    margin: 1.25rem 0 0;
+}
+
+.kotak-tentang a{
+    color: #64b5f6;
+    word-break: break-all;
+}

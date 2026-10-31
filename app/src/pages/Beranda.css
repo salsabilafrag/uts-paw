@@ -1,0 +1,65 @@
+
+.beranda {
+    max-width: 700px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    
+}
+
+.kotak {
+    padding: 1.5rem;
+    background: #1d3557;
+    border: 2px solid #457b9d;
+    border-radius: 12px;
+    text-align: center;
+
+}
+
+.kotak-judul h1{
+    margin: 0 0 0.5rem;
+    font-size: clamp(1.6rem, 5vw, 2.3rem);
+    color: #e9edc9;
+}
+
+.kotak-judul p {
+    margin: 0;
+    color: #f0ebd8;
+}
+
+.beranda-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    color: #faedcd;
+}
+
+.kotak-angka strong {
+    display: block;
+    font-size: 2.4rem;
+    line-height: 1;
+    color: #f9dbbd;
+}
+
+.kotak-angka span {
+    display: block;
+    margin-top: 0.4rem;
+    color: #f2e8cf;
+}
+
+.beranda-tombol{
+    display: inline-block;
+    padding: 0.7rem 1.6rem;
+    background: #ffecd1;
+    color: #1d3557;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.beranda-tombol:hover {
+    background: #fde4cf;
+}
