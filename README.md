@@ -71,7 +71,7 @@ Kelas: RB
 Tema: Portofolio Proyek
 Deployment: https://salsabilafrag.github.io/uts-paw/
 
-![Tangkapan layar beranda RuangRakit](Foto/Beranda.png)
+![Tangkapan layar beranda RuangRakit](./Foto/Beranda.png)
 
 ## Fitur
 
