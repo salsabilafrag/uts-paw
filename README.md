@@ -71,11 +71,15 @@ Kelas: RB
 Tema: Portofolio Proyek
 Deployment: https://salsabilafrag.github.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda RuangRakit](Foto/Beranda.png)
 
 ## Fitur
 
-- ...
+- Beranda : Menampilkan ringkasan jumlah proyek dan kategori.
+- Koleksi Proyek : Menampilkan daftar proyek yang telah disimpan.
+- Tambah Proyek : Menambahkan proyek beserta informasinya.
+- Statistik : Menampilkan ringkasan data proyek.
+- Tentang : Menampilkan informasi mengenai aplikasi RuangRakit.
 
 ## Menjalankan secara lokal
 
@@ -85,5 +89,7 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
-```
+- State : Mengelola data dan kondisi yang dapat berubah selama aplikasi digunakan.
+- Conditional Rendering : Menampilkan elemen berdasarkan kondisi tertentu.
+- JSX : Menulis struktur tampilan menggunakan sintaks JavaScript XML.
+- Hooks : Fungsi khusus React untuk menggunakan fitur seperti state dan efek dalam komponen.
